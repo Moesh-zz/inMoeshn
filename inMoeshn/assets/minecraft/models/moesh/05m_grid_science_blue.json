@@ -1,0 +1,9 @@
+{
+	"__comment": "Designed by Moesh http://moesh.ca/",
+	"parent": "block/slab",
+	"textures" : {
+		"bottom": "moesh/1m_grid_science_blue",
+		"top": "moesh/1m_grid_science_blue",
+		"side": "moesh/05m_grid_science_blue"
+	}
+}
